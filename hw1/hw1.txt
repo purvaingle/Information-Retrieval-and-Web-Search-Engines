@@ -1,0 +1,4 @@
+Based on the findings, there is an average overlap of 14.3% and an average Spearman coefficient of -3.536.
+The low level of overlap between Google and DuckDuckGo results suggests limited similarity. Additionally, the negative Spearman coefficient indicates that the overlapping results are not related. This implies a significant disparity in how both search engines rank results in terms of relevance to the query.
+
+If we are benchmarking DuckDuckGo against Google's performance, we can say that DuckDuckGo's performance falls short of Google's i.e. it performs worse than Google. 
